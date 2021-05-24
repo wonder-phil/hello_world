@@ -5,3 +5,6 @@ This is a simple branch example.
 Another line.
 
 One more change.
+
+Another 2
+
